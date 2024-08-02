@@ -1,5 +1,6 @@
 # Power-BI-projects
 ### Collection of my personal Power BI projects and tutorials.
+
 ### Below are a list of books that I used to further my learning in Power BI 
 - The Definitive Guide of DAX
 - Learning Microsoft Power BI
