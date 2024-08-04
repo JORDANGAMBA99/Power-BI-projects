@@ -13,12 +13,12 @@ This dashboard helps a banking institution to determine the main drivers of a ch
 
 ### Steps followed 
 
-- Step 1 : Load data into Power BI Desktop, dataset is a csv file.
-- Step 2 : Open power query editor & in view tab under Data preview section
-- Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- Step 4: We check the datatype of each and every column to make sure that everything is inorder.
-- Step 5 : We remove the estimated salary because of presence of balance in the data set.
-- Step 6 : Create an example column for Products to instead of 1,2,3 to Prod1,Prod2,Prod3.
+- Load data into Power BI Desktop, dataset is a csv file.
+- Open power query editor & in view tab under Data preview section
+- Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
+- We check the datatype of each and every column to make sure that everything is inorder.
+- We remove the estimated salary because of presence of balance in the data set.
+- Create an example column for Products to instead of 1,2,3 to Prod1,Prod2,Prod3.
 - Change the values of Credit status column 1 to Owned and 0 to Not Owned
 - Change the values of Active status to 1 is active and 0 to inactive
 - Change the values of churn status to 1 churned and 0 to not churned.
