@@ -30,34 +30,35 @@ This dashboard helps a banking institution to determine the main drivers of a ch
 - Minimum target columns custom column formula is 0
 - Create a dax expression for customers lost:
 
-Customers Lost = CALCULATE( count('Customer Data'[Churn Status]),'Customer Data'[Churn Status] = "Churned")
+### Customers Lost = CALCULATE( count('Customer Data'[Churn Status]),'Customer Data'[Churn Status] = "Churned")
 
 - Dax Expression for churn rate :
 
-Churn Rate = 'Customer Data'[Customers Lost] / 'Customer Data'[No of Customers]
+### Churn Rate = 'Customer Data'[Customers Lost] / 'Customer Data'[No of Customers]
 
 No of Customers = COUNT('Customer Data'[Customer ID])
 
-Create a donut chart for :
+### Create a donut chart for :
 - Customers by gender, 
 - Customers activity status 
 - Customers Credit card status
 - Customers by Country
 - Customers by Products
 
-Create a Line and staacked chart for :
+### Create a Line and staacked chart for :
 - Customer and churn rate by Age groups
 - Customer and churn rate by Credit score
 - Customer and churn rate by Acct Balance
 
-Create a slicer for:
+### Create a slicer for:
 - Churned
 - Not Churned
 
-Create a gauge which includee the column for maximum,target and minimum churn rate respectively in the gauge
+### Create a gauge which include the columns for :
+- maximum,target and minimum churn rate respectively in the gauge
 
 ## Conclusion
-- We have found that the age group that has the highest churn rate is between 51-60. This age group has a highr churn rate of 56%.
+- We have found that the age group that has the highest churn rate is between 51-60. This age group has a higher churn rate of 56%. They also have the highest account balance of over 200k and have the lowest credit scores. 
 
 
 
