@@ -20,6 +20,7 @@ The dashboard should effectively convey:
 ### Approach - Project Planning & Aims Grid
 #### Purpose: What? Why? What do we want to achieve?
 #### To unlock safety insights that are not visible before for NHTSA team for decision support & automate them to reduced manual time spent in data gathering.
+<p  align="center"><a href="https://github.com/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
 
 ### Stake Holders: Who will be involved?
 - Director,
