@@ -1,5 +1,6 @@
 ## US National Highway Traffic Safety Administration Dashboard
-- You have been commissioned by the US National Highway Traffic Safety Administration to create a dashboard.
+- You have been commissioned by the US National Highway Traffic Safety Administration to create a dashboard. This was a practical case study given to me at the PL 300 PowerBI Certified course Udemy.
+- Here is my report https://app.powerbi.com/groups/me/reports/7df38d37-10bd-4447-b95d-be82e3a0e2b3/524f2da37f1d9868db0a?experience=power-bi
 
 ### Problem Statement
 The US National Highway Traffic Safety Administration (NHTSA) has tasked you with developing a data-driven dashboard that visually represents the trends in road safety across various states from 2007 to 2018. 
@@ -17,21 +18,62 @@ The dashboard should effectively convey:
 ### Technology Used 
 - Power BI
 
-### Approach - Project Planning & Aims Grid
-#### Purpose: What? Why? What do we want to achieve?
-#### To unlock safety insights that are not visible before for NHTSA team for decision support & automate them to reduced manual time spent in data gathering.
-<p  align="center"><a href="https://github.com/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
-
-### Stake Holders: Who will be involved?
-- Director,
-- I.T. Team,
-- Data & Analytics Team.
-
-### End Result: What do we want to achieve?
-An automated dashboard providing quick & latest safety insights in order to support data driven decision making.
-
-### Success Criteria: What will be our success criteria?
-- Dashboards uncovering safety order insights with latest data available.
-- NHTSA team able to take better decision & create safety policies for Americans.
+#### Step 1 Data Exploration and Data Cleaning
+- The dataset we obtained was already cleaned and didn't require any data cleaning
+  ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/57fe3db5185d57e99cdd2c2150a99bff61ef3801/Screenshot%20of%20power%20query%20editor.jpg)
+#### It has the following columns :
+- State
+- Year
+- 1.2 Miles(Millions)
+- Fatalities
+- Deaths per 100 million vehicle miles traveled
+- Target
+- 2018 Deaths per 100 million vehicle miles traveled
 
 
+#### Step 2 Modelling and cleaning using Power BI power query editor
+- We didn't need to model any of our columns or rows since our dataset was okay
+- We created a new measure Target1.02
+  
+```
+Target1.02 = 1.02
+```
+
+#### Step 3 Data Analysis
+##### On the first dashboard I highlighted the following:
+- The state, year, miles traveled and actual fatalities 
+- The actual fatalities per 100,000,000 miles.
+- The target level of fatalities which is 1.02 deaths
+- The actual fatalities per 100,000,000 miles in the last year of the data, 2018.
+ ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/57fe3db5185d57e99cdd2c2150a99bff61ef3801/Full%20Dashboard.jpg)
+
+##### On the second dashboard
+- Fatalities per year
+ ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/57fe3db5185d57e99cdd2c2150a99bff61ef3801/Fatalties%20per%20year.jpg)
+
+##### On the Third Dashboard
+- I generated an ArcGis map of the continental USA.I then created a drillthrough that connectd the findings of the previous pages to the AcGis map such that when one clicks the map you can go back to the map.
+![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/57fe3db5185d57e99cdd2c2150a99bff61ef3801/Sum%20of%20Fatalities%20per%20year.jpg)
+
+##### On the Fourth Dashboard
+ ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/57fe3db5185d57e99cdd2c2150a99bff61ef3801/Million%20miles%20driven%20per%20year.jpg)
+
+### Step 4 Findings
+The USA overall fatality rate per 100,000,000 miles is 1.13 which compared to the target of 1.02 is slightly high
+The state that had the most on road fatalities was texas with 41,000 occuring that year.
+Also generally speaking most of the southern states had relatively high fatality rate compared to the Northeast,the midwest,the west.
+
+- Alabama - 1.34
+- Arkansas - 1.41
+- Florida - 1.41
+- Georgia - 1.14
+- Kentucky - 1.46
+- Louisiana - 1.53
+- Mississippi - 1.63
+- North Carolina - 1.19
+- Oklahoma - 1.44
+- South Carolina - 1.83
+- Tennessee - 1.28
+- Texas - 1.29
+- Virginia - 0.96
+- West Virginia - 1.51
