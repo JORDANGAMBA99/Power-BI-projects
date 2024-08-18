@@ -60,7 +60,7 @@ copy cost_table
 from 'C:\Data Analysis Projects\Power BI projects\SQL and Power BI\cost_table.csv'
 with(format csv,header)
 
-## create a CTE and unin bothe the bike share data sets
+## create a CTE and union both the bike share data sets
 with cte as (
 select * from bike_share_yr_1
 union all
