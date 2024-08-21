@@ -12,7 +12,7 @@ You have been tasked by a Bike company to come up with the a dashboard that show
 ## Technology Used
  - Power BI
    
-Step 1 Data Extraction from Postgresql Database
+## Step 1 Data Extraction from Postgresql Database
 - Create a Database in Postgresql for the bike_share_yr_0,bike_share_yr_1 and  also the cost_table
 
 ```
@@ -147,3 +147,13 @@ from cte a
 left join cost_table b
 on a.yr = b.yr
 ```
+## Step 2 Loading the queries into the Power BI database[loading]!
+![image](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/fa49302109e6d5325db850cf557e0d9eb5806d49/Loading%20Query%20into%20the%20Power%20BI%20data%20base.jpg)
+
+## Step 3 Data Cleaning and Exploration
+- The data is clean
+
+## Step 4 Full dashboard
+![image](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/397113e1cb77308e64e8b6852a5e1aff2fb6b821/Bikes%20share/Full%20Dashboard.jpg)
+
+## Recommendations
