@@ -147,7 +147,7 @@ from cte a
 left join cost_table b
 on a.yr = b.yr
 ```
-## Step 2 Loading the queries into the Power BI database[loading]!
+## Step 2 Loading the queries into the Power BI database
 ![image](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/fa49302109e6d5325db850cf557e0d9eb5806d49/Loading%20Query%20into%20the%20Power%20BI%20data%20base.jpg)
 
 ## Step 3 Data Cleaning and Exploration
