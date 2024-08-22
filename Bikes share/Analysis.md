@@ -151,9 +151,25 @@ on a.yr = b.yr
 ![image](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/fa49302109e6d5325db850cf557e0d9eb5806d49/Loading%20Query%20into%20the%20Power%20BI%20data%20base.jpg)
 
 ## Step 3 Data Cleaning and Exploration
-- The data is clean
+- The data is clean thus no need for any data cleaning
+- We also need to add a dax measure in order to calculate the profit margin
+ ``` 
+  Profit Margin = (SUM('Main Query'[revenue])- (sum('Main Query'[profit]))/SUM('Main Query'[profit]))
 
+```
 ## Step 4 Full dashboard
 ![image](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/397113e1cb77308e64e8b6852a5e1aff2fb6b821/Bikes%20share/Full%20Dashboard.jpg)
 
 ## Recommendations
+Conservative Increase : Considering the substantial increase last year, a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the range of 10-15% could test the market’s response without rising a significant loss of customers.
+
+Conduct a Price Setting:
+-	If the price in 2022 wa 4.99$ a 10% increae wold make the new price about 5.99$
+-	A 15%  increae would set the price at approximately 5.74$
+  
+### Recommended Strategy
+
+Market Analysis : Conduct further market research to understand customer satisfaction,potential competitive changes and the overall economic environment.This can guide whether leaning towards the lower or higher end of the suggested increase.
+
+Segmented Pricing Strategy: Consider different pricing for casual registered users as they may have different price  sensitivities
+Monitor and Adjust: Implement the new prices but be  ready to adjust based on immediate customer feedaback and sales data. Monitoring closely will allow you to fine tune your pricing strategy without fully to a price that might turn out to be too high.
