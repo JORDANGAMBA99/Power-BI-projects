@@ -65,6 +65,8 @@ Chart type: Bar Chart
 Objective: Compare total sales across different outlets segmented by fat content
 Additional KPI metrics: Assess how other KPIs(Average Sales,Number of Items,Average Rating) vary with fat content
 Chart type: Stacked Column Chart
+![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/1ce6b20f1b172bbf96b3d23c99a628b7a6435fcf/Blinkit%20Sales%20Analysis/FAT%20BY%20OUTLET.jpg)
+
 
 4.	Total Sales by Outlet Establishment
 Objective: Evaluate how the age or type of outlet establishment influences total sales
