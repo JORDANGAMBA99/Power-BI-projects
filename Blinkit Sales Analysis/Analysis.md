@@ -89,6 +89,7 @@ Objective: Provide a comprehensive view of all key metrics
 - Average Sales
 - Number of  Items
 - Average Rating
+  
 These were broken down by different outlet types
 Chart Type: Matrix Card
 ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/c2d1f3bba35003529a52cd625c4ffbfe03e82a76/Blinkit%20Sales%20Analysis/All%20Mertics%20by%20Outlet%20Type.jpg)
