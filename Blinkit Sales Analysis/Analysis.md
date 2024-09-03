@@ -84,7 +84,12 @@ Chart type:Funnel Map
 ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/2bf493b97f5f27fd500e719cb085acd9189f4d91/Blinkit%20Sales%20Analysis/Sales%20by%20Outlet%20Location.jpg)
 
 9.	All Mertics by Outlet Type:
-Objective: Provide a comprehensive view of all key metrics [Total Sales,Average Sales,Number of  Items,Average Rating) broken down by different outlet types
+Objective: Provide a comprehensive view of all key metrics
+- Total Sales
+- Average Sales
+- Number of  Items
+- Average Rating
+These were broken down by different outlet types
 Chart Type: Matrix Card
 ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/c2d1f3bba35003529a52cd625c4ffbfe03e82a76/Blinkit%20Sales%20Analysis/All%20Mertics%20by%20Outlet%20Type.jpg)
 
