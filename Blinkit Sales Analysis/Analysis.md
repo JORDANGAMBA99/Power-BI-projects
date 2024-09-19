@@ -54,12 +54,15 @@ Additional KPI Metrics: Assess how other KPIs(Average Sales, Number of Items,Ave
 Chart Type Donut Chart
 ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/b1858137376b3c43d3ceb974c7506b9b80140237/Blinkit%20Sales%20Analysis/Sales%20by%20Fat%20Content.jpg)
 
+Low fat was the highest sales unit by 600o units
+
 2.	Total Sales by Item Type
 Objective: I dentify the performance of different item types in terms of total Sales
 Additional KPI Metrics: Assess how other KPIs(Average Sales-Number of Items,Average Rating) vary with fat content
 Chart type: Bar Chart
 ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/b1858137376b3c43d3ceb974c7506b9b80140237/Blinkit%20Sales%20Analysis/Stacked%20Column%20Chart.jpg)
 
+Fruits and Vegetables was the highest sales unit by 1232 units
 
 3.	Fat Content by Outlet for Total Sales:
 Objective: Compare total sales across different outlets segmented by fat content
@@ -73,17 +76,19 @@ Objective: Evaluate how the age or type of outlet establishment influences total
 Chart type: Line Chart
 ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/2bf493b97f5f27fd500e719cb085acd9189f4d91/Blinkit%20Sales%20Analysis/Total%20Sales%20by%20Outlet%20Establishment.jpg)
 
-6.	Sales by Outlet Size:
+5.	Sales by Outlet Size:
 Objective: Analyze the correlation between oulet size and total sales
 Chart type: Donut/Pie Chart
 ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/2bf493b97f5f27fd500e719cb085acd9189f4d91/Blinkit%20Sales%20Analysis/Sales%20by%20Outlet%20Size.jpg)
 
-7.	Sales by Outlet Location:
+6.	Sales by Outlet Location:
 Objective:Assess the geographic distribution of sales across different locations
 Chart type:Funnel Map
 ![image alt](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/2bf493b97f5f27fd500e719cb085acd9189f4d91/Blinkit%20Sales%20Analysis/Sales%20by%20Outlet%20Location.jpg)
 
-9.	All Mertics by Outlet Type:
+Medium Size locations had the highest sales units
+
+7.	All Mertics by Outlet Type:
 Objective: Provide a comprehensive view of all key metrics
 - Total Sales
 - Average Sales
