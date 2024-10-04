@@ -1,12 +1,22 @@
 ## Kenya Debt Dashboard
 In this project I assumed the role of a Power BI analyst in the Ministry of Treasury where I wanted to plot and analyze Kenya's External and Domestic debt.I wanted to determine why we had an enormous debt burden and why is it such a huge deal/burden to our economy.
 
- First of all,there are a lot of countries that have a huge debt problem. Countries such as 
+The debt burden poses a very dangerous economic crisis to Kenya.Kenya is not a unique country in terms of debt many countries face the same debt issue.Countries such as 
  - United States of America
 -  European Commision
 -  United Kingdom
 -  France
-#### Also a caveat to this I am not an economics expert therefore do not take my word for it.Feel Free to correct me.
+-  Japan
+
+It is worth noting that the countries above are part of G7 countries where some factors favour them :
+- Economic Stability and Resilience
+- Access to Capital Markets
+- Monetary Policy Flexibility
+- Debt-to-GDP Ratios
+
+Kenya like any other lower middle income country doesn't enjoy the factors above.Therefore it cannot have the same power in negotiating for better deals when economic crisises comes. For example in the 2008 financial crisis majority of countries listed above where in serious trouble they were able to sail through because of negotiatig for lower interest rates with lenders and in the case of USA quantative easing played a huge role.
+
+In this report I will focus on the metrics below to analyze debt in Kenya
 
 ### Key Metrics to Analyze
 - Total Public Debt: The sum of both domestic and external debt, often analyzed over time to observe trends and growth.
@@ -14,9 +24,6 @@ In this project I assumed the role of a Power BI analyst in the Ministry of Trea
 - Debt Service: The amount of government revenue allocated to servicing debt (both interest and principal payments). I could not find this dataset that shows the interest paid to debt from 1960
 - External vs Domestic Debt: Breaking down total debt into domestic and external components helps assess the reliance on foreign vs. local borrowing.
 - Budget Deficit and Borrowing Requirements: Compare the budget deficit with the borrowing requirements to understand the government’s fiscal position and borrowing needs.
-
-
-
 
 Steps
 I downloaded the Kenyan Public debt dataset from kaggle:
