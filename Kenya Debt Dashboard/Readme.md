@@ -25,6 +25,13 @@ In this report I will focus on the metrics below to analyze debt in Kenya
 - External vs Domestic Debt: Breaking down total debt into domestic and external components helps assess the reliance on foreign vs. local borrowing.
 - Budget Deficit and Borrowing Requirements: Compare the budget deficit with the borrowing requirements to understand the government’s fiscal position and borrowing needs.
 
+
+- Total Recurrent Expenditure - regular, ongoing costs incurred by a government or organization in running its day-to-day operations. This can include salaries, administrative expenses, operational costs, interest payments, and maintenance of assets.
+- Development Expenditure- refers to the funds allocated for capital projects or long-term investments aimed at developing infrastructure, improving public services, or fostering economic growth.
+- Total Expenditure - sum of both Recurrent Expenditure and Development Expenditure
+
+
+
 Steps
 I downloaded the Kenyan Public debt dataset from kaggle:
 - It contained the year,month,External,Domestic debt
