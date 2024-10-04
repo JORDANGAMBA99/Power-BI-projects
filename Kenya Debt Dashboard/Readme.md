@@ -21,7 +21,7 @@ In this report I will focus on the metrics below to analyze debt in Kenya
 ### Key Metrics to Analyze
 - Total Public Debt: The sum of both domestic and external debt, often analyzed over time to observe trends and growth.
 - Debt-to-GDP Ratio: This ratio is a critical measure of debt sustainability. Compare public debt with GDP to evaluate whether debt levels are manageable.
-- Debt Service: The amount of government revenue allocated to servicing debt (both interest and principal payments). I could not find this dataset that shows the interest paid to debt from 1960
+- Debt Service: The amount of government revenue allocated to servicing debt (both interest and principal payments). I could not find this dataset that shows the interest paid to debt from 1960. ( I could not find the data showed the percentage of the budget that is used to service debt from the treasury portal)
 - External vs Domestic Debt: Breaking down total debt into domestic and external components helps assess the reliance on foreign vs. local borrowing.
 - Budget Deficit and Borrowing Requirements: Compare the budget deficit with the borrowing requirements to understand the government’s fiscal position and borrowing needs.
 
@@ -44,4 +44,5 @@ I then uploaded the dataset to our Power BI server together with the Kenyan Publ
 - Government Debt Reports: Use official government data on domestic and external debt.
 - World Bank/IMF Databases [World Bank](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=KE)
 - Ministry of Finance Reports: For debt service details and fiscal data.
+- Lending interest rate (%) [World Bank](https://data.worldbank.org/indicator/FR.INR.LEND?locations=KE&most_recent_year_desc=true)
 - Central Bank: For interest rates, currency composition, and domestic debt breakdown.
