@@ -14,7 +14,7 @@ It is worth noting that the countries above are part of G7 countries where some 
 - Monetary Policy Flexibility
 - Debt-to-GDP Ratios
 
-Kenya like any other lower middle income country doesn't enjoy the factors above.Therefore it cannot have the same power in negotiating for better deals when economic crisises comes. For example in the 2008 financial crisis majority of countries listed above where in serious trouble they were able to sail through because of negotiatig for lower interest rates with lenders and in the case of USA quantative easing played a huge role.
+Kenya like any other lower middle income country doesn't enjoy the factors above.Therefore it cannot have the same power in negotiating for better deals when economic crisises comes. For example in the 2008 financial crisis majority of countries listed above where in serious trouble. However,they were able to sail through because of negotiating for lower interest rates with lenders and in the case of USA quantative easing played a huge role.
 
 In this report I will focus on the metrics below to analyze debt in Kenya
 
