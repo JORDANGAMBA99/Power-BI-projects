@@ -24,12 +24,19 @@ In this report I will focus on the metrics below to analyze debt in Kenya
 - Debt Service: The amount of government revenue allocated to servicing debt (both interest and principal payments). I could not find this dataset that shows the interest paid to debt from 1960. ( I could not find the data showed the percentage of the budget that is used to service debt from the treasury portal)
 - External vs Domestic Debt: Breaking down total debt into domestic and external components helps assess the reliance on foreign vs. local borrowing.
 - Budget Deficit and Borrowing Requirements: Compare the budget deficit with the borrowing requirements to understand the government’s fiscal position and borrowing needs.
-
-
 - Total Recurrent Expenditure - regular, ongoing costs incurred by a government or organization in running its day-to-day operations. This can include salaries, administrative expenses, operational costs, interest payments, and maintenance of assets.
 - Development Expenditure- refers to the funds allocated for capital projects or long-term investments aimed at developing infrastructure, improving public services, or fostering economic growth.
-- Total Expenditure - sum of both Recurrent Expenditure and Development Expenditure
+- Total Expenditure - sum of both Recurrent Expenditure and Development Expenditure.
 
+In order to achieve this I broke them down to :
+- Revenue Analysis
+- Expenditure Analysis
+- Revenue vs. Expenditure
+- Grant and Aid Analysis
+- Revenue Breakdown by Category
+- Expenditure Breakdown by Category
+- Debt and Interest Payments
+- Comparative Analysis
 
 
 Steps
