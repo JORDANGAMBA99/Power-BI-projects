@@ -1,4 +1,4 @@
-## Kenya Debt Dashboard
+## Kenya debt Dashboard
 In this project I assumed the role of a Power BI analyst in the Ministry of Treasury where I wanted to plot and analyze Kenya's External and Domestic debt.I wanted to determine why we had an enormous debt burden and why is it such a huge deal/burden to our economy.
 
 The debt burden poses a very dangerous economic crisis to Kenya.Kenya is not a unique country in terms of debt many countries face the same debt issue.Countries such as 
