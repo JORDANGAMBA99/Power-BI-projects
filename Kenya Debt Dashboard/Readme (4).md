@@ -1,5 +1,4 @@
 ## National Revenue and Expenditure Analysis
-.
 ### Purpose
 In this project I assumed the role of a Power BI analyst in the Ministry of Treasury where I wanted to plot and analyze Kenya's Revenue and Expenditure in different areas. The goals of these project were divided into revenue and expenditure.There were different goals for revenue and also for expenditure
 
