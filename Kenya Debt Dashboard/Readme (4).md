@@ -14,10 +14,9 @@ In this project I assumed the role of a Power BI analyst in the Ministry of Trea
 
 ## Scope/Major Project Activities
 Steps
-I downloaded the Kenyan Public debt dataset from kaggle:
-- It contained the year,month,External,Domestic debt
-Also get the Budget from 1960
-I then downloaded the GDP data set from the World Bank Dataset.I then Filtered the rows in the excel file to Kenya and deleted the rest of the rows in order to look like this
+- I downloaded the Kenyan Public debt dataset from kaggle
+- I download Debt to GDP,Kenya Lending Rates,Budget from World bank
+
 ![alt text](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/c24837c57d7f2bcc1f35350eb81e19a097b60180/Kenya%20Debt%20Dashboard/GDP%20Screenshot%20Kenya.jpg)
 
 I then uploaded the dataset to our Power BI server together with the Kenyan Public debt data set.
