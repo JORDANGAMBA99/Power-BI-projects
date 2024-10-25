@@ -1,44 +1,19 @@
-## Kenya debt Dashboard
-In this project I assumed the role of a Power BI analyst in the Ministry of Treasury where I wanted to plot and analyze Kenya's External and Domestic debt.I wanted to determine why we had an enormous debt burden and why is it such a huge deal/burden to our economy.
+## National Revenue and Expenditure Analysis
+.
+### Purpose
+In this project I assumed the role of a Power BI analyst in the Ministry of Treasury where I wanted to plot and analyze Kenya's Revenue and Expenditure in different areas. The goals of these project were divided into revenue and expenditure.There were different goals for revenue and also for expenditure
 
-The debt burden poses a very dangerous economic crisis to Kenya.Kenya is not a unique country in terms of debt many countries face the same debt issue.Countries such as 
- - United States of America
--  European Commision
--  United Kingdom
--  France
--  Japan
+#### Revenue Analysis
+- Plot the revenue trend for Kenya from 1999-2024
+- Identify the highest months for revenue collection
+- Plot the revenue distribution for Kenya
 
-It is worth noting that the countries above are part of G7 countries where some factors favour them :
-- Economic Stability and Resilience
-- Access to Capital Markets
-- Monetary Policy Flexibility
-- Debt-to-GDP Ratios
+#### Expenditure Analysis
+- Identify the key areas of expenditure for the Government
+- Plot the expenditure over for Kenya from 1999-2024
+- Identify the expenditure distribution for recurrent and development expenditure
 
-Kenya like any other lower middle income country doesn't enjoy the factors above.Therefore it cannot have the same power in negotiating for better deals when economic crisises comes. For example in the 2008 financial crisis majority of countries listed above where in serious trouble. However,they were able to sail through because of negotiating for lower interest rates with lenders and in the case of USA quantative easing played a huge role.
-
-In this report I will focus on the metrics below to analyze debt in Kenya
-
-### Key Metrics to Analyze
-- Total Public Debt: The sum of both domestic and external debt, often analyzed over time to observe trends and growth.
-- Debt-to-GDP Ratio: This ratio is a critical measure of debt sustainability. Compare public debt with GDP to evaluate whether debt levels are manageable.
-- Debt Service: The amount of government revenue allocated to servicing debt (both interest and principal payments). I could not find this dataset that shows the interest paid to debt from 1960. ( I could not find the data showed the percentage of the budget that is used to service debt from the treasury portal)
-- External vs Domestic Debt: Breaking down total debt into domestic and external components helps assess the reliance on foreign vs. local borrowing.
-- Budget Deficit and Borrowing Requirements: Compare the budget deficit with the borrowing requirements to understand the government’s fiscal position and borrowing needs.
-- Total Recurrent Expenditure - regular, ongoing costs incurred by a government or organization in running its day-to-day operations. This can include salaries, administrative expenses, operational costs, interest payments, and maintenance of assets.
-- Development Expenditure- refers to the funds allocated for capital projects or long-term investments aimed at developing infrastructure, improving public services, or fostering economic growth.
-- Total Expenditure - sum of both Recurrent Expenditure and Development Expenditure.
-
-In order to achieve this I broke them down to :
-- Revenue Analysis
-- Expenditure Analysis
-- Revenue vs. Expenditure
-- Grant and Aid Analysis
-- Revenue Breakdown by Category
-- Expenditure Breakdown by Category
-- Debt and Interest Payments
-- Comparative Analysis
-
-
+## Scope/Major Project Activities
 Steps
 I downloaded the Kenyan Public debt dataset from kaggle:
 - It contained the year,month,External,Domestic debt
