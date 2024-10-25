@@ -50,7 +50,8 @@ I created the expenditure analysis for the dashboard
 | Plot the yearly expenditure | create a bar chart for yearly expenditure |
 | Identify the percentage of recurrent and development distribution | create a pie chart for recurrent and development distribution|
 
-
+## Challenges
+The date time columns in the dataets were not included especially.I could not trend a pattern for debt,revenue and expenditure in order to establish an event analysis for every figure reported.
 
 
 ### Data Sources:
