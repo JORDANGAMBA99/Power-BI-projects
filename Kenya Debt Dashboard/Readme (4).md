@@ -24,7 +24,33 @@ I then downloaded the GDP data set from the World Bank Dataset.I then Filtered t
 I then uploaded the dataset to our Power BI server together with the Kenyan Public debt data set.
 ![alt text](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/cba1e9dbaca98753d61d5cebabfbdba9b94f0987/Kenya%20Debt%20Dashboard/Both%20of%20the%20dataset%20in%20the%20Power%20BI%20server.jpg)
 
+I created the Revenue analysis dashboard which contains:
+- The yearly and monthly bar chart for revenue trend since 1999-2024
+- The revenue distribution for each month
+- The yearly total revenue distribution
 
+![alt text](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/d0e18d76c29cb60c9d5ce1a66693f39361312490/Kenya%20Debt%20Dashboard/Revenue%20Analysis%20Dashboard.jpg)
+
+I created the expenditure analysis for the dashboard
+- Yearly expediture distribution for every sector in government
+- Yearly Expenditure and revenue distribution
+- Recurrent and Development ditribution
+
+![alt text](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/d0e18d76c29cb60c9d5ce1a66693f39361312490/Kenya%20Debt%20Dashboard/Expenditure%20analysis.jpg)
+
+### This project does not contain
+- The yearly variance for revenue
+- The monthly variance for month
+- How much of total grants contribute to total revenue
+- Compare revenue sources vs. expenditure types (e.g., VAT revenue vs. pension expenditure)
+- How do revenue trends compare to expenditure trends over time?
+
+| Deliverables | Description |
+| -------- | ------- |
+|Yearly revenue | Plot the yearly revenue analysis for Kenya using a column chart|
+| Highest months of revenue collection in Kenya| Plot and Identify the highest months of revenue collection in Kenya using a bar chart|
+| Plot the yearly expenditure | create a bar chart for yearly expenditure |
+| Identify the percentage for recurrent and development distribution | create a pie chart for recurrent and development distribution|
 
 
 
