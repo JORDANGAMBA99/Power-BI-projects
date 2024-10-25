@@ -40,7 +40,7 @@ I created the expenditure analysis for the dashboard
 
 ### This project does not contain
 - The yearly variance for revenue
-- The monthly variance for month
+- The monthly variance for revenue
 - How much of total grants contribute to total revenue
 - Compare revenue sources vs. expenditure types (e.g., VAT revenue vs. pension expenditure)
 - How do revenue trends compare to expenditure trends over time?
