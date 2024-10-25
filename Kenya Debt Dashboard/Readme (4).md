@@ -50,7 +50,7 @@ I created the expenditure analysis for the dashboard
 |Yearly revenue | Plot the yearly revenue analysis for Kenya using a column chart|
 | Highest months of revenue collection in Kenya| Plot and Identify the highest months of revenue collection in Kenya using a bar chart|
 | Plot the yearly expenditure | create a bar chart for yearly expenditure |
-| Identify the percentage for recurrent and development distribution | create a pie chart for recurrent and development distribution|
+| Identify the percentage of recurrent and development distribution | create a pie chart for recurrent and development distribution|
 
 
 
