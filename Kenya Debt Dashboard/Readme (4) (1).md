@@ -51,7 +51,7 @@ I created the expenditure analysis for the dashboard
 | Identify the percentage of recurrent and development distribution | create a pie chart for recurrent and development distribution|
 
 ## Challenges
-The date time columns in the dataets were not included especially.I could not trend a pattern for debt,revenue and expenditure in order to establish an event analysis for every figure reported.
+The date time columns in the datasets were not included especially.I could not trend a pattern for debt,revenue and expenditure in order to establish an event analysis for every figure reported.Also the values that are the equivalent values but are not accurate as the national treasury does not state if they are millions,billions in the dataset.
 
 
 ### Data Sources:
