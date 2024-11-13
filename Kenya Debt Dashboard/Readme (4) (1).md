@@ -53,6 +53,17 @@ I created the expenditure analysis for the dashboard
 ## Challenges
 The date time columns in the datasets were not included especially.I could not trend a pattern for debt,revenue and expenditure in order to establish an event analysis for every figure reported.Also the values that are the equivalent values but are not accurate as the national treasury does not state if they are millions,billions in the dataset.
 
+## Conclusion
+One of the most common myths I would like to debunk is the notion of foreign debt payments as the biggest expenditure. That is not true.
+According to the Treasury,the biggest expenditure in Kenya is a category called 'Other'.I wasn't able to demystify what 'Other' means in the treasury dataset but this category has been growing from 1999-2024.I would like to assume this is government spending on itself
+
+- Also the share of domestic interest to foreign interest has been going up exponentially as the government seems to be more comfortable in borrowing domestically. Therefore foreign debt repayments should not be a greater concern than dometic debts.
+
+- Also since 1999, we have been spending more for on recurrent expenditure than development expenditure.The percentage is split as 77% recurrent and 23% development expenditure.
+
+- The government generates the most revenue from our income tax in fact a whooping 48% of government revenue is gotten from income tax,the rest are VAT 28%,Excise duty 14%,Import duty 7%,Other tax income is 2.45%.This also explains whenever we have a crisis in terms of revenue the government focuses on increased income tax deductions and VAT.
+
+- The government generates the most amount of revenue as it is the end of fiscal year(30th June). Happening on 30th also due to Annual Reporting and Payments,Government Targeting and Increased Compliance Campaigns
 
 ### Data Sources:
 - Government Debt Reports: Use official government data on domestic and external debt.
