@@ -39,7 +39,7 @@ Financial Impact
 - How has salary change correlated with productivity? (Salary_Changes vs. Productivity_Change)
 - How does job security differ across sectors? (Job_Security vs. Sector)
 
-Steps I took in executng this project:
+Steps I took in executing this project:
 Data Cleaning
 
 ![alttext](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/e426eef715ea2b99f313070ee4b452354be2a5c4/COVID-19%20on%20Working%20Professionals/Covid%20screenshot.jpg)
