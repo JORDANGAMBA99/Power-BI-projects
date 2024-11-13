@@ -2,7 +2,12 @@
 
 https://www.kaggle.com/datasets/willianoliveiragibin/covid-19-on-working-professionals
 ### Purpose
-In this project I wanted to take a look at the effects of COVID-19 on various sectors such as Education,health,IT and Retail.
+In this project I wanted to take a look at the effects of COVID-19 on various sectors such as 
+- Education
+- health
+- IT
+- Retail.
+I created a dashboard that summarized the effects of COVID 19 on various sectors.This data was gathered from various professionls working in these sectors
 I looked at the following:
 
 General Impact
