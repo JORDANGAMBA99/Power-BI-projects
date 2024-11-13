@@ -42,3 +42,9 @@ Financial Impact
 Steps I took in executng this project:
 Data Cleaning
 
+![alttext](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/e426eef715ea2b99f313070ee4b452354be2a5c4/COVID-19%20on%20Working%20Professionals/Covid%20screenshot.jpg)
+
+I rounded off the Hours_Worked_Per_Day hours_worked_per_day and Meetings_Per_Day columsn to the nearest 2 decimal places.
+![alttext](https://github.com/JORDANGAMBA99/Power-BI-projects/blob/a907d69b9530a105b289cf10c1742a3faee580e5/COVID-19%20on%20Working%20Professionals/Dataset%20cleaned.jpg)
+
+
