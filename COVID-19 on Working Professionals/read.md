@@ -6,7 +6,8 @@ In this project I wanted to take a look at the effects of COVID-19 on various se
 - Education
 - health
 - IT
-- Retail.
+- Retail
+
 I created a dashboard that summarized the effects of COVID 19 on various sectors.This data was gathered from various professionls working in these sectors
 I looked at the following:
 
